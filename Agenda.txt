@@ -48,4 +48,14 @@ git add .
 
 git commit -m "added" 
 
+git remote add origin https://github.com/github_user_name/Thinkbot.git
+
+git push -u origin main
+
+now go to streamlit cloud ---> Create an account on it by using github .
+
+click on " create app " ----> click on "deploy a public aap on github " --> 
+
+click on advance setting ---> paste your api key here in string format .
+
 
